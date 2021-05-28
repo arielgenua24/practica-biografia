@@ -20,3 +20,7 @@ body {
     font-size: 50PX;
 
 }
+container h1 {
+    font-size: 60px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
