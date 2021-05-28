@@ -1,5 +1,5 @@
 body {
-    background-color: aqua;
+    background-color: rgb(226, 24, 199);
     text-align: center;
     color :rgb(43, 33, 17);
     font-family: "Arial";
@@ -18,5 +18,11 @@ body {
 
 #container h1 {
     font-size: 20PX;
+
+}
+#container h1 {
+    font-size: 50px;
+    background-color: aquamarine;
+    border-radius: 20px;
 
 }
