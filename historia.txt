@@ -1,6 +1,6 @@
 hola como estas, soy ariel... y esta es mi historia.
 ariel va con Mayusculas. por lo tanto... Ariel.
 
-estoy practicando mi historia!
+estoy practicando mi historia! hola hola
 
 practicando  git, github, push y pull!
